@@ -8,7 +8,7 @@ This demo adopted the standard P model based on Stocker et al. (2020), with dail
 ### Demo2
 This demo used subdaily setting which assumed vegetation acclimated to noon-time condition. A 1-hour wide window was therefore set at noon. Hourly data also from FLUXNET2015 was applied to this demo, and soil moisture effect from demo 1 were applied to daily GPP which was summed from subdaily hourly GPP.
 
-Both demo used data from same example site so audience would be able to compare daily GPP from daily/subdaily version of P model against site observations.
+Both demo used data from same example site so audience would be able to compare daily GPP from daily/subdaily version of P model against site observations. For demo example data, please download from Figshare: https://figshare.com/s/a1d2c1a91b6f8b507a38.
 
 For the source code of Pyrealm, please refer to https://github.com/ImperialCollegeLondon/pyrealm. If you have further questions regarding the setting of these damos, please contact Wenjia Cai (w.cai17@imperial.ac.uk).
 
